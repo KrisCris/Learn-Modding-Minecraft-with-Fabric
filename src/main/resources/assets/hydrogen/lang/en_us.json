@@ -1,0 +1,7 @@
+{
+  "itemGroup.hydrogen.liquid": "Liquid",
+  "itemGroup.hydrogen.solid": "Solid",
+  "item.hydrogen.h2o": "H2O",
+  "item.hydrogen.h2o.tooltip": "A tiny molecule.",
+  "block.hydrogen.solid_h2o_block": "H2O Block"
+}

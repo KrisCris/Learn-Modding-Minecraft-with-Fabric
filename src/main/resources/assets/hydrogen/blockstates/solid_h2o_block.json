@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "hydrogen:block/solid_h2o_block"}
+  }
+}

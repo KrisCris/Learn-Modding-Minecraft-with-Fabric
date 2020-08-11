@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " P ",
+    "PHP"
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:potion"
+    },
+    "H": {
+      "item": "minecraft:magma_block"
+    }
+  },
+  "result": {
+    "item": "hydrogen:h2o",
+    "count": 64
+  }
+}

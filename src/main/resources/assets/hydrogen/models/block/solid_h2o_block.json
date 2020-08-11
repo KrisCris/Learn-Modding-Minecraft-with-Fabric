@@ -1,0 +1,6 @@
+{
+  "parent" : "block/cube_all",
+  "textures": {
+    "all": "hydrogen:block/solid_h2o_block"
+  }
+}

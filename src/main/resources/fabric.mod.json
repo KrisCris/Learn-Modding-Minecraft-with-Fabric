@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "hydrogen",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Hydrogen",
+  "description": "First mod named as the first element in Chemistry.",
   "authors": [
-    "Me!"
+    "Conn_Lost"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "404",
+    "sources": "404"
   },
 
-  "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "license": "",
+  "icon": "assets/hydrogen/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "me.connlost.hydrogen.HydrogenMain"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "hydrogen.mixins.json"
   ],
 
   "depends": {
